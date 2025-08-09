@@ -1,6 +1,9 @@
 <br clear="both">
 
-<img height="443" src="https://images.alphacoders.com/765/765703.png" style="display:block;margin:0 auto;" />
+<p align="center" style="margin:0;padding:0;">
+  <img height="443" src="https://images.alphacoders.com/765/765703.png" />
+</p>
+
 
 ###
 
