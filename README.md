@@ -1,20 +1,23 @@
 <!-- Encabezado animado -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=F75C7E&center=true&vCenter=true&width=800&lines=Hola%2C+soy+MClovin!;Desarrollador+Full+Stack;Apasionado+por+la+tecnología+y+el+código" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=F75C7E&center=true&vCenter=true&width=800&lines=Hola%2C+soy+Alessandro!;Desarrollador+Full+Stack;Apasionado+por+la+tecnología+y+el+código" alt="Typing SVG">
 </p>
 
 ---
 
 ## 🚀 Sobre mí
-- 💻 Desarrollador Full Stack.
-- 🎯 Apasionado por aprender y crear soluciones tecnológicas.
-- 🌱 Actualmente explorando **React, Django y Linux**.
-- ⚡ Me encanta experimentar con nuevos proyectos.
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="100" height="100" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="100" height="100" /></div>
+
+<p>
+  <a href="https://youtu.be/TU_VIDEO" target="_blank">
+    <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Video Loop" width="400">
+  </a>
+</p>
+<p align="center">Haz clic en la imagen para ver el video completo 🎬</p>
 
 ---
 
 ## 📊 Estadísticas de GitHub
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical" alt="Top Langs" height="165">
@@ -42,13 +45,7 @@
 ---
 
 ## 💼 Tecnologías y Herramientas
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-</p>
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="65" height="65" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /></div>
 
 ---
 
@@ -61,4 +58,4 @@
 
 ---
 
-<p align="center">⚡ Hecho con ❤️ y mucho ☕ por MClovin</p>
+<p align="center">⚡ Hecho con ❤️ y mucho ☕ por Alessandro</p>
