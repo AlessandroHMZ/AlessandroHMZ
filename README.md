@@ -1,8 +1,8 @@
 <br clear="both">
-
-<p align="center" style="margin:0;padding:0;">
-  <img height="443" src="https://images.alphacoders.com/765/765703.png" />
+<p align="center" style="margin:0;padding:0;overflow:hidden;height:300px;">
+  <img src="https://images.alphacoders.com/765/765703.png" style="margin:0;padding:0;object-fit:cover;height:100%;width:auto;" />
 </p>
+
 
 
 ###
@@ -41,7 +41,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Alessandro Meneses&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+<img src="https://streak-stats.demolab.com?user=AlessandroMeneses&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
 
 ###
