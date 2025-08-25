@@ -7,7 +7,7 @@
 
 ###
 
-<h2 align="center">¿SALE BALATRO? 🤡</h2>
+<h1 align="center">1.500e21</h1>
 
 ###
 
@@ -34,14 +34,6 @@
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="125" height="125" />
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="125" height="125" />
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="125" height="125" /></div>
-</div>
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=AlessandroMeneses&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
 
 ###
