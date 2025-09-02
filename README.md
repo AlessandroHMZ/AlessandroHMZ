@@ -4,10 +4,27 @@
 </p>
 
 
+###
+
+<div align="center">
+
+# ✨ HOLA 👋 ✨
+
+[![Portafolio](https://img.shields.io/badge/🌐%20Portafolio-02D9F7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tusitio.com)
+[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandromeneses)
+[![GitHub](https://img.shields.io/badge/🐙%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlessandroMeneses)
+
+</div>
 
 ###
 
-<h1 align="center">1.500e21</h1>
+[![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AlessandroMeneses&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true&t=20250902)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+###
+
+<h1 align="center">Github Metrics </h1><p align="center">
+<img width="725em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlessandroMeneses&theme=github_dark" />
+</p>
 
 ###
 
@@ -15,31 +32,25 @@
 
 ###
 
-<p align="left">I'm Alessandro from Colombia 🇨🇴<br><br>🔭 I’m currently working as a Full Stack Developer, building web applications with Django and React.<br><br>📚 I'm currently learning advanced frontend design and system architecture to create more scalable and efficient projects.<br><br>⚡ In my free time, I enjoy exploring new technologies, tweaking UI designs, and sometimes diving into Linux experiments.</p>
+```mermaid
+graph TD;
+    A[Alessandro] --> B[🎨 Frontend]
+    A --> C[⚙️ Backend]
+    A --> D[🛠️ Extras]
 
-###
+    B --> E[⚛️ React]
+    B --> F[📘 TypeScript]
+    B --> G[🎨 UI/UX]
 
-<h3 align="left">Language and tools</h3>
+    C --> H[🐍 Django]
+    C --> I[🗄️ Databases]
 
-###
+    D --> J[📊 Data Analyst]
+    D --> K[🔧 System Architecture]
+```
 
-<div align="center">
-<div style="display: flex; align-items: flex-start;">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="125" height="125" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="125" height="125" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="125" height="125" />
-  <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="125" height="125" />
-</div><div style="display: flex; align-items: flex-start;">
-  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="125" height="125" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="125" height="125" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="125" height="125" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="125" height="125" /></div>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
-###
+<p align="center">
+  <a href="https://count.getloli.com" target="_blank">
+    <img alt="Moe Counter!" src="https://count.getloli.com/@AlessandroMeneses?name=AlessandroMeneses&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=0&darkmode=0">
+  </a>
+</p>
