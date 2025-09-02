@@ -3,19 +3,21 @@
   <img src="https://images.alphacoders.com/765/765703.png" style="margin:0;padding:0;object-fit:cover;height:100%;width:auto;" />
 </p>
 
-###
 
-<table align="center">
+
+<table align="center" border="0" cellspacing="0" cellpadding="0" style="border:none;">
 <tr>
-<td align="center" width="50%">
+<td align="center" width="50%" style="border: none !important;">
 
-# ✨ HOLA 👋 ✨
+✨ HOLA 👋 ✨
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFF&size=30&center=true&vCenter=true&width=1000&lines=SOY+ALESSANDRO+👨‍💻;FULL+STACK+DEVELOPER+🚀;DJANGO+%2B+REACT+LOVER+❤️;CODIGO+%2B+CAFE+=+VIDA+☕;SILKSONG!)
 
 Bienvenido a mi perfil de GitHub.<br>
 Full Stack Developer apasionado por **Django**, **React** y un poco de caos creativo 🚀
 
 </td>
-<td align="center" width="50%">
+<td align="center" width="50%" style="border: none !important;">
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ofu7wulobydsdrf753xicyozh4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
@@ -24,7 +26,7 @@ Full Stack Developer apasionado por **Django**, **React** y un poco de caos crea
 </table>
 
 
-###
+
 
 [![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AlessandroMeneses&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true&t=20250902)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
