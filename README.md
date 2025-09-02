@@ -10,11 +10,7 @@
 
 # ✨ HOLA 👋 ✨
 
-[![Portafolio](https://img.shields.io/badge/🌐%20Portafolio-02D9F7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tusitio.com)
-[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandromeneses)
-[![GitHub](https://img.shields.io/badge/🐙%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlessandroMeneses)
-
-</div>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ofu7wulobydsdrf753xicyozh4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 ###
 
