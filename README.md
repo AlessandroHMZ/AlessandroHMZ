@@ -3,14 +3,26 @@
   <img src="https://images.alphacoders.com/765/765703.png" style="margin:0;padding:0;object-fit:cover;height:100%;width:auto;" />
 </p>
 
-
 ###
 
-<div align="center">
+<table align="center">
+<tr>
+<td align="center" width="50%">
 
 # ✨ HOLA 👋 ✨
 
+Bienvenido a mi perfil de GitHub.<br>
+Full Stack Developer apasionado por **Django**, **React** y un poco de caos creativo 🚀
+
+</td>
+<td align="center" width="50%">
+
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ofu7wulobydsdrf753xicyozh4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
+</td>
+</tr>
+</table>
+
 
 ###
 
@@ -18,7 +30,8 @@
 
 ###
 
-<h1 align="center">Github Metrics </h1><p align="center">
+<h1 align="center">Github Metrics </h1>
+<p align="center">
 <img width="725em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlessandroMeneses&theme=github_dark" />
 </p>
 
@@ -43,10 +56,3 @@ graph TD;
 
     D --> J[📊 Data Analyst]
     D --> K[🔧 System Architecture]
-```
-
-<p align="center">
-  <a href="https://count.getloli.com" target="_blank">
-    <img alt="Moe Counter!" src="https://count.getloli.com/@AlessandroMeneses?name=AlessandroMeneses&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=0&darkmode=0">
-  </a>
-</p>
