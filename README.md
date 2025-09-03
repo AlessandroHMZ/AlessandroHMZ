@@ -1,47 +1,35 @@
 <br clear="both">
-<p align="center" style="margin:0;padding:0;overflow:hidden;height:300px;">
-  <img src="https://images.alphacoders.com/765/765703.png" style="margin:0;padding:0;object-fit:cover;height:100%;width:auto;" />
+<p align="center">
+  <img src="https://wallpapercave.com/wp/wp2682242.gif" height="100%" />
 </p>
 
-
-
-<table align="center" border="0" cellspacing="0" cellpadding="0" style="border:none;">
-<tr>
-<td align="center" width="50%" style="border: none !important;">
-
-✨ HOLA 👋 ✨
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFF&size=30&center=true&vCenter=true&width=1000&lines=SOY+ALESSANDRO+👨‍💻;FULL+STACK+DEVELOPER+🚀;DJANGO+%2B+REACT+LOVER+❤️;CODIGO+%2B+CAFE+=+VIDA+☕;SILKSONG!)
-
-Bienvenido a mi perfil de GitHub.<br>
-Full Stack Developer apasionado por **Django**, **React** y un poco de caos creativo 🚀
-
-</td>
-<td align="center" width="50%" style="border: none !important;">
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ofu7wulobydsdrf753xicyozh4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-
-</td>
-</tr>
+<table align="center" border="0" cellspacing="0" cellpadding="0" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <p style="font-size:24px;font-weight:bold;">ALESSANDRO</p>
+      <p>
+        Welcome to my GitHub profile. If you were hoping to be impressed, you'd better wait until Silksong is released.
+      </p>
+       <br>
+      <img src="https://readme-typing-svg.herokuapp.com/?color=FFF&size=30&center=true&vCenter=true&width=1000&lines=MUSIC+LOVER+;COFFEE+LOVER;LOVER+OF+THE+RAIN;TITS+LOVER;SILKSONG+LOVER" alt="Typing SVG" />
+      <img src="https://wallpapercave.com/wp/wp4849308.jpg" alt="Imagen de ejemplo" width="90%" />
+    </td>
+    <td align="center" width="50%" valign="top">
+      <a href="https://github.com/kittinan/spotify-github-profile">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ofu7wulobydsdrf753xicyozh4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify Now Playing" />
+      </a>
+    </td>
+  </tr>
 </table>
-
-
-
 
 [![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AlessandroMeneses&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true&t=20250902)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-###
-
-<h1 align="center">Github Metrics </h1>
+<h1 align="center">Github Metrics</h1>
 <p align="center">
-<img width="725em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlessandroMeneses&theme=github_dark" />
+  <img width="725em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlessandroMeneses&theme=github_dark" />
 </p>
 
-###
-
 <h3 align="left">About Me</h3>
-
-###
 
 ```mermaid
 graph TD;
