@@ -4,7 +4,7 @@
 <table align="center" border="0" cellspacing="0" cellpadding="0" width="100%">
   <tr>
     <td align="center" width="50%">
-      <h1 style="font-size:32px;font-weight:bold;">ALESSANDRO MENESES</h1>
+      <h1 style="font-size:32px;font-weight:bold;">ALESSANDRO</h1>
       <p>
         Welcome to my GitHub profile. If you were hoping to be impressed, you'd better wait until Silksong is released.
       </p>
